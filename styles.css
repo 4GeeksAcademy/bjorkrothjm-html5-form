@@ -1,7 +1,10 @@
-label {
+label,
+legend {
     margin: 10px 0px;
     font-weight: 500;
 }
+
+
 
 input {
     margin: 5px 0px;
