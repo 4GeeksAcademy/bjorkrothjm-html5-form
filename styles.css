@@ -1,19 +1,27 @@
+
+
 label,
 legend {
     margin: 10px 0px;
     font-weight: 500;
 }
 
+.logo-label {
+    margin: 0px !important;
+}
 
-
+/*
 input {
     margin: 5px 0px;
 }
+*/
 
+/*
 .payment-input {
     margin: 10px 0px;
     padding: 5px;
 }
+*/
 
 span {
     font-size: 4;
